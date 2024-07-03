@@ -1,6 +1,6 @@
 # Shortcut
 
-Simple script to create an Application icons
+Simple script to create an Application icon
 
 ## How to use
 
