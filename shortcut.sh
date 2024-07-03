@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# shortcut.sh - Script to define a application shortcut
+# shortcut.sh - Script to define an application shortcut
 #
 # How to use:
 #
